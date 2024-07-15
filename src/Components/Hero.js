@@ -23,7 +23,7 @@ import Abhishek from "./Office.jpg";
 <a style={{  width:"145px",backgroundColor: "darkgrey", border: "5px solid darkgrey", borderRadius:"12px", color: "black"}}  href={MyPDF} download="Abhishek_Resume.pdf"> Download Resume </a> 
 		</div>
 		<div className="flex-1">
-		  <img style={{borderRadius: "20%",border: "none", height: "510px", width:"450px", marginTop: "70px",marginLeft: "60px"}}
+		  <img style={{borderRadius: "20%",border: " 3px solid dark-blue", height: "32vw",width: "80%", marginTop: "40px"}}
 			src={Abhishek}
 			alt="./Abhishek.jpg"
 			className="w-full h-full bg-cover"
